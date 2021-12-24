@@ -1,6 +1,6 @@
 const CONFIG = {
-    introTitle: 'Alo Idol!',
-    introDesc: `Merry Chirstmas🎄🎄🎄`,
+    introTitle: 'Merry Chirstmas Idol🎄🎄🎄',
+    introDesc: `🎅🎅🎅`,
     btnIntro: 'Merry Chirstmas',
     title: 'Đi chơi noel ko :v',
     desc: '☃️☃️☃️',
